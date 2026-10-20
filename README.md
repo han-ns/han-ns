@@ -1,5 +1,5 @@
-![Top Languages](https://vercel.app)
-![Top Languages](https://vercel.app)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=han-s)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-ns)
 <!--
 **han-ns/han-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
