@@ -1,7 +1,7 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=han-s)
-![Stats](https://github-contribution-card.vercel.app/api?username=han-ns&combine_all_yearly_contributions=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-ns)
 ![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=han-ns)
+
 <!--
 **han-ns/han-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
