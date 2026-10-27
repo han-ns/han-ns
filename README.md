@@ -2,6 +2,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-ns)
 ![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=han-ns)
 
+I don't actually know Lisp
+
 <!--
 **han-ns/han-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
